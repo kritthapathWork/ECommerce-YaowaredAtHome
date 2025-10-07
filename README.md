@@ -73,10 +73,32 @@
   
 ## 📦 SHIPPING MANAGEMENT
 #### 🔸 Shipping CRUD ( Read, Create, Update, Hart-Delete )
-- จัดการกรายการจัดส่ง
+- จัดการรายการจัดส่ง
 - ระบบรองรับการออกรายงาน และดาวโหลด PDF
   
 ## 📦 REPORT
 - ระบบรองรับการออกรายงานยอดระหว่างวัน
 - ระบบรองรับการออกรายงานยอดขายรายเดือน
 - ระบบรองรับการออกรายงานยอดขายรายปี
+
+---
+
+## 🖼️ UI Preview
+
+### 🔸 Login Page
+<img width="1920" height="915" alt="image" src="https://github.com/user-attachments/assets/7df72bc1-ad1a-422e-883a-f7c4ae34f225" />
+
+### 🔸 Homepage Page
+<img width="1920" height="914" alt="image" src="https://github.com/user-attachments/assets/fc8f3f59-d6ff-484b-a29f-ae85b4ef2f91" />
+
+### 🔸 Dashboard Page
+<img width="1920" height="918" alt="image" src="https://github.com/user-attachments/assets/202d72aa-8c9e-4d8d-b1c2-fa6a60d0a1fe" />
+
+### 🔸 Order Crud Page
+<img width="1920" height="913" alt="image" src="https://github.com/user-attachments/assets/ffadb117-d5b2-4826-b621-aa8b0480b759" />
+
+### 🔸 Product Crud Page
+<img width="1920" height="913" alt="image" src="https://github.com/user-attachments/assets/d4fdb115-a6f3-45f6-9dc6-e945e6de9651" />
+
+### 🔸 Cart Page
+<img width="1917" height="912" alt="image" src="https://github.com/user-attachments/assets/775dfb32-4a9d-43aa-b45b-a6a96bc24ab0" />
