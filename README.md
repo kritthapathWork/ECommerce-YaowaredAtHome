@@ -102,3 +102,9 @@
 
 ### 🔸 Cart Page
 <img width="1917" height="912" alt="image" src="https://github.com/user-attachments/assets/775dfb32-4a9d-43aa-b45b-a6a96bc24ab0" />
+
+---
+
+# 📑 รายงานเกี่ยวกับระบบทั้งหมด
+[6203011004_การพัฒนาระบบพาณิชย์อิเล็กทรอนิกส์ของร้าน YaowaredAtHome.pdf](https://github.com/user-attachments/files/22741693/6203011004_.YaowaredAtHome.pdf)
+
